@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Cesar 👋
 
-<!--
-**CeCamillo/CeCamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Software Developer
+- 🎓 Computer Science Student
+- 💡 Aspiring Indie Hacker
 
-Here are some ideas to get you started:
+Follow my journey here: [![Twitter](https://img.shields.io/twitter/url?label=%40_whoscesar&style=social&url=https%3A%2F%2Ftwitter.com%2F_whoscesar)](https://twitter.com/_whoscesar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **FrontEnd**: NextJs, React, Typescript, Tailwind CSS
+- **BackEnd**: NodeJs, Golang, Java Spring
+
+📫 Feel free to reach out: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarcamillo/)
